@@ -9,7 +9,7 @@ const TherapistAIChat = () => {
       "https://api-inference.huggingface.co/models/tiiuae/falcon-7b-instruct",
       {
         headers: {
-          Authorization: "Bearer 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",
+          Authorization: "",
           "Content-Type": "application/json",
         },
         method: "POST",
